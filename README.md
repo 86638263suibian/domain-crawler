@@ -3,7 +3,7 @@ Domain crawler
 
 domain-db.com Domain Crawler
 
-Super FAST! and low resource consuming (i.e over 100 connections per second).
+Super FAST! (Twisted) and low resource consuming (i.e over 100 connections per second).
 
 More on:
 
